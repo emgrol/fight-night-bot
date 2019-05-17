@@ -1,0 +1,117 @@
+ {
+    "namajunas_andrade": {
+      "red_corner": {
+        "nickname": "Thug",
+        "fullname": "Rose Namajunas",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-05/NAMAJUNAS_ROSE_L_BELT.png",
+        "record": "9-3-0",
+        "country": "USA",
+        "height": "5 ft. 5 in.",
+        "reach": "65 in."
+      },
+      "blue_corner": {
+        "nickname": "Bate Estaca",
+        "fullname": "Jessica Andrade",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-05/ANDRADE_JESSICA_R.png",
+        "record": "19-6-0",
+        "country": "Brazil",
+        "height": "5 ft. 2 in.",
+        "reach": "62 in."
+      },
+      "weight_class": "Strawweight - 115lb",
+      "bout_type": "Championship",
+	  "fight_number": 1
+    },
+    "cannonier_silva": {
+      "red_corner": {
+        "nickname": "The Killa Gorilla",
+        "fullname": "Jared Cannonier",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-05/CANNONIER_JARED_L.png",
+        "record": "11-4-0",
+        "country": "USA",
+        "height": "5 ft. 11 in.",
+        "reach": "77.5 in."
+      },
+      "blue_corner": {
+        "nickname": "The Spider",
+        "fullname": "Anderson Silva",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-02/SILVA_ANDERSON_R.png",
+        "record": "34-9-0, 1 NC",
+        "country": "Brazil",
+        "height": "6 ft. 2 in.",
+        "reach": "77.5 in."
+      },
+      "weight_class": "Middleweight - 185lb",
+      "bout_type": "Bout",
+	  "fight_number": 2
+    },
+    "aldo_volkanovski": {
+      "red_corner": {
+        "nickname": "            ",
+        "fullname": "Jose Aldo",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-01/ALDO_JOSE_L.png",
+        "record": "28-4-0",
+        "country": "Brazil",
+        "height": "5 ft. 7 in.",
+        "reach": "70 in."
+      },
+      "blue_corner": {
+        "nickname": "The Great",
+        "fullname": "Alexander Volkanovski",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-05/VOLKANOVSKI_ALEXANDER_R.png",
+        "record": "19-1-0",
+        "country": "Australia",
+        "height": "5 ft. 6 in.",
+        "reach": "71.5 in."
+      },
+      "weight_class": "Featherweight - 145lb",
+      "bout_type": "Bout",
+	  "fight_number": 3
+    },
+    "alves_staropoli": {
+      "red_corner": {
+        "nickname": "Pibtull",
+        "fullname": "Thiago Alves",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-01/ALVES_THIAGO_L.png",
+        "record": "28-13-0",
+        "country": "Brazil",
+        "height": "5 ft. 9 in.",
+        "reach": "70 in."
+      },
+      "blue_corner": {
+        "nickname": "Pepi",
+        "fullname": "Laureano Staropoli",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/ufc-fighter-container/71434/profile-galery/fullbodyright-picture/STAROPOLI_LAUREANO_R.png",
+        "record": "8-1-0",
+        "country": "Argentina",
+        "height": "6 ft. 0 in.",
+        "reach": "71.5 in."
+      },
+      "weight_class": "Welterweight - 170lb",
+      "bout_type": "Bout",
+	  "fight_number": 4
+    },
+    "aldana_correia": {
+      "red_corner": {
+        "nickname": "            ",
+        "fullname": "Irene Aldana",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-05/ALDANA_IRENE_L.png",
+        "record": "9-4-0",
+        "country": "Mexico",
+        "height": "5 ft. 9 in.",
+        "reach": "68.5 in."
+      },
+      "blue_corner": {
+        "nickname": "Pitbull",
+        "fullname": "Bethe Correia",
+        "img_url": "https://ufc-video.s3.amazonaws.com/styles/athlete_matchup_stats_full_body/s3/2019-05/CORREIA_BETHE_R.png",
+        "record": "10-3-1",
+        "country": "Brazil",
+        "height": "5 ft. 5 in.",
+        "reach": "64 in."
+      },
+      "weight_class": "Bantamweight - 135lb",
+      "bout_type": "Bout",
+	  "fight_number": 5
+    }
+  }

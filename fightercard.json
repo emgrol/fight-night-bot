@@ -1,0 +1,139 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0",
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "horizontalAlignment": "Center",
+          "spacing": "Medium",
+          "columns": [
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "red_nickname",
+                  "size": "Small",
+                  "text": "red-nickname",
+                  "maxLines": 1
+                },
+                {
+                  "type": "TextBlock",
+                  "id": "red_fullname",
+                  "horizontalAlignment": "Left",
+                  "size": "Medium",
+				  "color": "attention",
+                  "text": "red_fighter"
+                },
+                {
+                  "type": "Image",
+                  "id": "red_image",
+                  "url": ""
+                },
+                {
+                  "type": "FactSet",
+                  "id": "red_stats",
+                  "facts": [
+                    {
+                      "title": "Record",
+                      "value": "red_record"
+                    },
+                    {
+                      "title": "Country",
+                      "value": "red_country"
+                    },
+                    {
+                      "title": "Height",
+                      "value": "red_height"
+                    },
+                    {
+                      "title": "Reach",
+                      "value": "red_reach"
+                    }
+                  ]
+                }
+              ],
+              "width": "stretch"
+            },
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "Weight_Class",
+                  "horizontalAlignment": "Center",
+                  "text": "weight",
+                  "maxLines": 1
+                },
+                {
+                  "type": "TextBlock",
+                  "id": "bout_type",
+                  "horizontalAlignment": "Center",
+                  "size": "Medium",
+                  "text": "bout",
+                  "maxLines": 1
+                }
+              ],
+              "width": "stretch"
+            },
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "id": "blue_nickname",
+                  "horizontalAlignment": "Right",
+                  "size": "Small",
+                  "text": "blue_nickname",
+                  "maxLines": 1
+                },
+                {
+                  "type": "TextBlock",
+                  "id": "blue_name",
+                  "horizontalAlignment": "Right",
+                  "size": "Medium",
+                  "text": "blue_fighter",
+				  "color": "accent"
+                },
+                {
+                  "type": "Image",
+                  "id": "blue_image",
+                  "url": ""
+                },
+                {
+                  "type": "FactSet",
+                  "id": "blue_stats",
+                  "facts": [
+                    {
+                      "title": "Record",
+                      "value": "blue_record"
+                    },
+                    {
+                      "title": "Country",
+                      "value": "blue_country"
+                    },
+                    {
+                      "title": "Height",
+                      "value": "blue_height"
+                    },
+                    {
+                      "title": "Reach",
+                      "value": "blue_reach"
+                    }
+                  ]
+                }
+              ],
+              "width": "stretch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

@@ -28,4 +28,4 @@ git clone https://github.com/emgrol/fight-night-bot
 ### Connect to bot using Bot Framework Emulator **V4**
 - Launch Bot Framework Emulator
 - File -> Open bot and navigate to fight-night-bot folder
-- Select Rich-Cards-Bot.bot file
+- Select fight-night.bot file

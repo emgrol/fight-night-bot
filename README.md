@@ -2,7 +2,7 @@
 ### Adaptive Card bot for displaying fight card information for combat sports events
 
 ## PREREQUISITES
-- Python 3.4 or above
+- Python 3.6 or above
 - Git
 - Microsoft Bot Builder SDK for Python https://github.com/Microsoft/botbuilder-python/wiki/building-the-sdk 
 

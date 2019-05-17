@@ -1,19 +1,21 @@
 # Fight Night Bot
-# Adaptive Card bot for displaying fight card information for combat sports events
+### Adaptive Card bot for displaying fight card information for combat sports events
 
 ## PREREQUISITES
 - Python 3.4 or above
+- Git
+- Microsoft Bot Builder SDK for Python https://github.com/Microsoft/botbuilder-python/wiki/building-the-sdk 
 
 ## To try this sample
 - Clone the repository
 ```bash
-git clone https://github.com/emgrol/fight-night-bot.git
+git clone https://github.com/emgrol/fight-night-bot
 ```
 
 ### Connect to the bot
 - Activate your desired virtual environment
-- Open `fight-night` folder
-- Bring up a terminal, navigate to `fight-night` folder
+- Open `fight-night-bot` folder
+- Bring up a terminal, navigate to `fight-night-bot` folder
 - In the terminal, type `pip install -r requirements.txt`
 - In the terminal, type `python main.py`
 
@@ -25,5 +27,5 @@ git clone https://github.com/emgrol/fight-night-bot.git
 
 ### Connect to bot using Bot Framework Emulator **V4**
 - Launch Bot Framework Emulator
-- File -> Open bot and navigate to samples\Rich-Cards-Bot folder
+- File -> Open bot and navigate to fight-night-bot folder
 - Select Rich-Cards-Bot.bot file
